@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data
+data/*.csv
+data/*.xlsx
+data/*.xls
+data/*.parquet
+
+# Tableau
+*.twb
+*.twbx
