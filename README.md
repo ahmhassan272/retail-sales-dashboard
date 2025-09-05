@@ -71,5 +71,4 @@ retail-sales-dashboard/
 
 ---
 
-**Author:** Your Name  
-**License:** MIT
+**Author:** Ahmed Hassan
